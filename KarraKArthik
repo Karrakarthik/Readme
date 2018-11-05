@@ -1,0 +1,51 @@
+# Prolog Project 3
+  -----
+  This is an assignment which is used to make us familiar with Prolog and the its syntax.
+  This file consists of 3 parts:
+  
+  - Finding the rooms in which the cell phones are ringing
+  - Connecting all the rooms in which cell phones are ringing
+  - Connecting the rooms from the start to end points.
+  - License
+  - Author
+   ---
+
+# Getting Started
+   ** Install the SWI- Prolog in the desktop as per the given directions in the link provided in the pdf..
+       
+
+    # Download all files from canvas.
+    $ traversal.pl 
+    
+---
+# Finding the rooms in which the cell phones are ringing
+  The rooms in which the cell phones are ringing are given in the pdf. We need to write the code including the rooms.
+  
+# Connecting all the rooms in which cell phones are ringing
+  We need to coonect all the rooms that are having the cells phones ringing in them. There can be many ways outcomes to connect the rooms.
+  
+  
+  
+# Connecting the rooms from the start to end points.
+
+  This step is to connect all the rooms from the start to end through the rooms in which the cell phones are ringing. If the path in which we go to the end does not have the rooms with cell phons ringing then we must output no otherwise yes.
+  
+---
+
+# Program complexity
+  The program runs with a time complexity of O(n).
+
+---
+# Results
+  Gives the result of the person with highest number of points in a bucket.
+ 
+---
+# License
+  Auburn University
+
+---  
+# Author
+  Karthik Karra
+  
+  
+
